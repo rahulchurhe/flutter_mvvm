@@ -6,7 +6,7 @@ MVVM Architecture in Flutter
 
 Model–View–ViewModel (MVVM) is a very established architectural pattern when it’s come to software development. What is so special about MVVM?. 
 
-                              We need one architecture to be placed in the application which communicates between UI and business logic. MVVM is one of them which is able to segregate business logic from UI, this looks easy job to do, but my friend believe me if you missed something in architecture or doing anything inaccurate then be ready for big trouble at a later stage of application development, and eventually you will end up having some code hack in application to do your job. 
+ We need one architecture to be placed in the application which communicates between UI and business logic. MVVM is one of them which is able to segregate business logic from UI, this looks easy job to do, but my friend believe me if you missed something in architecture or doing anything inaccurate then be ready for big trouble at a later stage of application development, and eventually you will end up having some code hack in application to do your job. 
 
 Here I am going to explain MVVM with a simple example that will give you enough knowledge to implement in your application. 
 
